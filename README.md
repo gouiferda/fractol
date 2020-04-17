@@ -1,5 +1,5 @@
 
-# Fractol [Computer graphics]
+# Fractol [Computer graphics project]
 
 Fractol is small fractal exploration program, offeres multiple generated fractals with the ability to tweak parameters, coded with in C using mlx library.
 
@@ -25,7 +25,7 @@ Fractol is small fractal exploration program, offeres multiple generated fractal
 - [Complex numbers](https://en.wikipedia.org/wiki/Fractal)
 - [Mlx library](https://github.com/qst0/ft_libgfx#minilibx)
 - Optimization in computer graphics:
- - [Multithreading](https://www.geeksforgeeks.org/multithreading-c-2/)
+    - [Multithreading](https://www.geeksforgeeks.org/multithreading-c-2/)
 
 
 ## More to do
