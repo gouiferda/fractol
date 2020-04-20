@@ -1,5 +1,5 @@
 
-# Fractol [Computer graphics project]
+# Fractol
 
 Fractol is small fractal exploration program, offeres multiple generated fractals with the ability to change parameters, coded with in C using mlx library.
 
