@@ -1,17 +1,19 @@
 
 # Fractol [Computer graphics project]
 
-Fractol is small fractal exploration program, offeres multiple generated fractals with the ability to tweak parameters, coded with in C using mlx library.
+Fractol is small fractal exploration program, offeres multiple generated fractals with the ability to change parameters, coded with in C using mlx library.
 
-## Fractals available:
+## Features
 
-- Julia set
-- Mandelbrot set 
-- Sirpinski triangle
-- Tree
-- Burningship
-- Barnsley fern
-- Tricon
+- Fractals: Julia set, Mandelbrot set, Sirpinski triangle, Tree, Burningship, Barnsley fern, Tricon
+- Menus: Controls panel, Info panel
+- Change parameters: Iterations, Zoom, Colors ...
+
+## Run
+
+- Run commands:
+    - make re
+    - ./fractol mandelbrot
 
 ## Screenshots
 
