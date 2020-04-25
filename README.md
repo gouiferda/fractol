@@ -17,7 +17,7 @@ Fractol is small fractal exploration program, offeres multiple generated fractal
 
 ## Screenshots
 
-| First Header  | Second Header | Second Header |
+| Sirpinski triangle  | Barnsley fern | Julia set |
 | ------------- | ------------- | ------------- |
 | ![Image](https://i.imgur.com/RlXn1sV.png)  | ![Image](https://i.imgur.com/uApvFir.png) | ![Image](https://i.imgur.com/mfEypUT.png)
 
