@@ -17,9 +17,10 @@ Fractol is small fractal exploration program, offeres multiple generated fractal
 
 ## Screenshots
 
-![Image](https://i.imgur.com/iWvrXrN.png)
-![Image](https://i.imgur.com/6Gmi85H.png)
-![Image](https://i.imgur.com/PvLgxTk.png)
+| First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- |
+| ![Image](https://i.imgur.com/RlXn1sV.png)  | ![Image](https://i.imgur.com/uApvFir.png) | ![Image](https://i.imgur.com/mfEypUT.png)
+
 
 ## Resources
 
