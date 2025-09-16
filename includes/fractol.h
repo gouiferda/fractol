@@ -296,6 +296,7 @@ t_complex			power_t_complex(t_complex n1, int power);
 */
 
 void				affect_int(int *x, int val);
+void affect_int2(int *x, int val);
 void				affect_double(double *x, double val);
 void				affect_double2(double *x, double val);
 void				affect_double3(double *x, double *y, double val);
